@@ -1174,6 +1174,8 @@ section {
 .breadcrumbs h2 {
   font-size: 36px;
   font-weight: 300;
+  color: #16df7e;
+  margin-top: 3%;
 }
 
 .breadcrumbs ol {
